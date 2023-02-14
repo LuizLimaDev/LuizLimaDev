@@ -1,6 +1,12 @@
-### Prazer meu caro(a), Luiz Lima 🤓
+### Prazer meu caro(a), Luiz Lima! 🤓
 
-<div style="display: inline_block"><br>
+##
+
+- 💻 Desenvolvedor Front End (Alura)
+- 📖 Desenvolvedor de Software (Full Stack - Cubos Academy)
+
+
+<div style="display: inline_block" align="center"><br>
 <img align="center" alt="HTML icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="CSS icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="Bootstrap icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -10,7 +16,9 @@
 
 ##
 
-
+<div align="center">
+<a href="https://www.linkedin.com/in/devluizlima/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
+</div>
 
 
 <!--
