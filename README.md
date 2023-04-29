@@ -2,6 +2,10 @@
 
 ##
 
+Paulista, noroestino da cidade de Bauru (sim, de onde veio o lanche 😂), formado em Educação Física mas de volta a área da Tecnologia onde resgato conhecimentos do passado e somo aos atuais. 
+Desenvolvedor Front end pela Oracle Netx Education, desenvolvo minhas aplicações com as tecnolgoias HTML, CSS, SASS, Bootstrap, Javascript e React.
+Busco aprofundar meus conhecimentos com o curso de Desenvolvimento de Software na Cubos Academy.
+
 - 🎓 Desenvolvedor Front End (Alura)
 - 🌱 Desenvolvedor de Software (Full Stack - Cubos Academy)
 
