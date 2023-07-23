@@ -1,7 +1,10 @@
+![capa](https://i.ibb.co/tKhP2dG/capa.png)
+
 ### <div align="center">Prazer meu caro(a), Luiz Lima! 🤓</div>
 
 ##
 
+<br>
 Paulista, noroestino da cidade de Bauru (sim, de onde veio o lanche 😂), formado em Educação Física mas de volta a área da Tecnologia onde resgato conhecimentos do passado e somo aos atuais. 
 Desenvolvedor Front end pela Oracle Netx Education, desenvolvo minhas aplicações com as tecnolgoias Bootstrap, Javascript (ES6) e React.
 Busco aprofundar meus conhecimentos com o curso de Desenvolvimento de Software na Cubos Academy.
