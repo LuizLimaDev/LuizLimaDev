@@ -11,6 +11,7 @@ Paulista, noroestino da cidade de Bauru (sim, de onde veio o lanche 😂), forma
 🎓 Desenvolvedor Front End (Oracle One)
 
 🎓 Desenvolvedor de Software (Full Stack)
+  - Sólida formação com simulação de entregas reais... individual, em dupla e em equipe.
 
 🎮  Gamer e esportista nas horas vagas!
 
