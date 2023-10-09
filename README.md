@@ -6,27 +6,30 @@
 
 <br>
 Paulista, noroestino da cidade de Bauru (sim, de onde veio o lanche 😂), formado em Educação Física mas de volta a área da Tecnologia onde resgato conhecimentos do passado e somo aos atuais. 
-Desenvolvedor Front end pela Oracle Netx Education, desenvolvo minhas aplicações com as tecnolgoias Bootstrap, Javascript (ES6) e React.
-Busco aprofundar meus conhecimentos com o curso de Desenvolvimento de Software na Cubos Academy.
 <br><br>
 
-🎓 Desenvolvedor Front End
+🎓 Desenvolvedor Front End (Oracle One)
 
-🌱 Desenvolvedor de Software (Full Stack)
+🎓 Desenvolvedor de Software (Full Stack)
 
 🎮  Gamer e esportista nas horas vagas!
 
+🇺🇸 Inglês fluente
 
 ### <div align="center">Tecnologias 💻</div>
 
-
 <div style="display: inline_block" align="center"><br>
- <img align="center" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
- <img align="center" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+
+![foundation](https://skillicons.dev/icons?i=html,css,js,ts)
+
+![styles](https://skillicons.dev/icons?i=bootstrap,sass,tailwind,materialui)
+
+![frontend](https://skillicons.dev/icons?i=react,nextjs,jest,redux)
+
+![backend](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres)
+
+![backend](https://skillicons.dev/icons?i=git,github,figma)
+
 </div>     
 
 
