@@ -5,7 +5,7 @@
 ##
 
 <br>
-Paulista, noroestino da cidade de Bauru (sim, de onde veio o lanche 😂), formado em Educação Física mas de volta a área da Tecnologia onde resgato conhecimentos do passado e somo aos atuais. 
+Paulista, noroestino da cidade de Bauru (sim, de onde veio o lanche 😂), formado em Educação Física e depois de uma caminhada como professor bilingue, de volta a área da Tecnologia. 
 <br><br>
 
 🎓 Desenvolvedor Front End (Oracle One)
