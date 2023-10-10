@@ -21,13 +21,12 @@ Paulista, noroestino da cidade de Bauru (sim, de onde veio o lanche 😂), forma
 
 <div style="display: inline_block" align="center"><br>
 
-![foundation](https://skillicons.dev/icons?i=html,css,js,ts)
+![foundation](https://skillicons.dev/icons?i=html,css,js,ts) ![styles](https://skillicons.dev/icons?i=bootstrap,sass,tailwind,materialui)
 
-![styles](https://skillicons.dev/icons?i=bootstrap,sass,tailwind,materialui)
 
-![frontend](https://skillicons.dev/icons?i=react,nextjs,jest,redux)
+![frontend](https://skillicons.dev/icons?i=react,nextjs,jest,redux) ![backend](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres)
 
-![backend](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres)
+
 
 ![backend](https://skillicons.dev/icons?i=git,github,figma)
 
