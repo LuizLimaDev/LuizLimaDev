@@ -8,6 +8,14 @@
 Sou um desenvolvedor Fullstack apaixonado por criar aplicações web que unem a arte do design com a eficiência do desenvolvimento. Minha jornada no mundo do desenvolvimento me permitiu adquirir experiência em várias áreas, incluindo Design System, Figma, Atomic Design, React/Next no front-end e Node.js, Express e SQL no back-end. Frutos da minha eterna curiosidade de saber como tudo funciona!
 <br><br>
 
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizlimadev&hide_progress=true&theme=tokyonight)
+
+</div>
+
+<br>
+
 🎓 Desenvolvedor Front End (Oracle One)
 
 🎓 Desenvolvedor de Software (Full Stack)
@@ -17,7 +25,10 @@ Sou um desenvolvedor Fullstack apaixonado por criar aplicações web que unem a 
 
 🇺🇸 Inglês fluente
 
+<br><br>
+
 ### <div align="center">Tecnologias 💻</div>
+
 
 <div style="display: inline_block" align="center"><br>
 
