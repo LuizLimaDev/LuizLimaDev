@@ -1,4 +1,4 @@
-![capa](https://i.ibb.co/tKhP2dG/capa.png)
+![img](https://i.imgur.com/1Sg9ZtV.png)
 
 ### <div align="center">Prazer meu caro(a), Luiz Lima! 🤓</div>
 
