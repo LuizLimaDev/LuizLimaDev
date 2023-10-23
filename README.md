@@ -5,7 +5,7 @@
 ##
 
 <br>
-Paulista, noroestino da cidade de Bauru (sim, de onde veio o lanche 😂), formado em Educação Física e depois de uma caminhada como professor bilingue, de volta a área da Tecnologia. 
+Sou um desenvolvedor Fullstack apaixonado por criar aplicações web que unem a arte do design com a eficiência do desenvolvimento. Minha jornada no mundo do desenvolvimento me permitiu adquirir experiência em várias áreas, incluindo Design System, Figma, Atomic Design, React/Next no front-end e Node.js, Express e SQL no back-end. Frutos da minha eterna curiosidade de saber como tudo funciona!
 <br><br>
 
 🎓 Desenvolvedor Front End (Oracle One)
