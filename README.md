@@ -40,7 +40,7 @@ E minhas experiências como professor me permite comunicar-se com eficiência e 
 
 
 
-![backend](https://skillicons.dev/icons?i=git,github,figma)
+![backend](https://skillicons.dev/icons?i=git,github,figma,mongo)
 
 </div>     
 
