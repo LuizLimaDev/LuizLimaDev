@@ -5,8 +5,8 @@
 ##
 
 <br>
-Sou um desenvolvedor Fullstack apaixonado por criar aplicações web que unem a arte do design com a eficiência do desenvolvimento. Minha jornada no mundo do desenvolvimento me permitiu adquirir experiência em várias áreas, incluindo Design System, Figma, Atomic Design, React/Next no front-end e Node.js, Express e SQL no back-end. Frutos da minha eterna curiosidade de saber como tudo funciona!
-E minhas experiências como professor me permite comunicar-se com eficiência e facilidade... além de lidar facilmente com pessoas e ter proatividade.
+Sou um desenvolvedor Fullstack apaixonado por criar aplicações web que unem a arte do design com a eficiência do desenvolvimento. Minha jornada no mundo do desenvolvimento me permitiu adquirir experiência em várias áreas, incluindo criação de Layout (UI/UX com Design System, Figma e Atomic Design), React/Next e Vue no front-end e Node.js, Express e SQL ou Mongo no back-end. Frutos da minha eterna curiosidade de saber como tudo funciona! <br>
+Minhas experiências anteriores como professor de Ed. Física Bilingue, me permite comunicar-se com eficiência e facilidade... além de ser proativo, gerenciar bem o tempo e lidar facilmente com pessoas.
 <br><br>
 
 <div align="center">
@@ -17,12 +17,11 @@ E minhas experiências como professor me permite comunicar-se com eficiência e 
 
 <br>
 
-🎓 Desenvolvedor Front End (Oracle One)
-
 🎓 Desenvolvedor de Software (Full Stack)
-  - Sólida formação com simulação de entregas reais... individual, em dupla e em equipe.
 
-🎮  Gamer e esportista nas horas vagas!
+🎓 Cursando Faculdade de Engenharia de Software
+
+🎮  Gamer e 🏋🏾 esportista nas horas vagas!
 
 🇺🇸 Inglês fluente
 
@@ -33,14 +32,12 @@ E minhas experiências como professor me permite comunicar-se com eficiência e 
 
 <div style="display: inline_block" align="center"><br>
 
-![foundation](https://skillicons.dev/icons?i=html,css,js,ts) ![styles](https://skillicons.dev/icons?i=bootstrap,sass,tailwind,materialui)
+![foundation](https://skillicons.dev/icons?i=html,css,js,ts) ![styles](https://skillicons.dev/icons?i=bootstrap,sass,tailwind,materialui)<br>
 
+![frontend](https://skillicons.dev/icons?i=react,nextjs,jest,redux,vue)<br>
+![backend](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongo)<br>
 
-![frontend](https://skillicons.dev/icons?i=react,nextjs,jest,redux) ![backend](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres)
-
-
-
-![backend](https://skillicons.dev/icons?i=git,github,figma,mongo)
+![tools](https://skillicons.dev/icons?i=git,github,figma)
 
 </div>     
 
@@ -54,6 +51,7 @@ E minhas experiências como professor me permite comunicar-se com eficiência e 
   
 ![Oracle](https://img.shields.io/badge/-Oracle%20Next%20Education-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&color=FFB84C)
 ![CubosAcademy](https://img.shields.io/badge/-Cubos%20Academy-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&color=F266AB)
+![Descomplica](https://img.shields.io/badge/-Descomplica-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&color=#52E58C)
   
 </div>
 <br>
