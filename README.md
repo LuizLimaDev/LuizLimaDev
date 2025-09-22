@@ -1,27 +1,20 @@
-![img](https://i.imgur.com/1Sg9ZtV.png)
-
 ### <div align="center">Prazer meu caro(a), Luiz Lima! 🤓</div>
 
 ##
 
 <br>
-Sou um desenvolvedor Fullstack apaixonado por criar aplicações web que unem a arte do design com a eficiência do desenvolvimento. Minha jornada no mundo do desenvolvimento me permitiu adquirir experiência em várias áreas, incluindo criação de Layout (UI/UX com Design System, Figma e Atomic Design), React/Next e Vue no front-end e Node.js, Express e SQL ou Mongo no back-end. Frutos da minha eterna curiosidade de saber como tudo funciona! <br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+Sou um desenvolvedor Fullstack apaixonado por criar aplicações web que unem a arte do design com a eficiência do desenvolvimento. Minha jornada no mundo do desenvolvimento me permitiu adquirir experiência em várias áreas, incluindo criação de Layouts (UI/UX com Design System, Figma e Atomic Design), Front-end com React/Next e Vue e Backend com Node.js, Express, SQL ou Mongo. Frutos da minha eterna curiosidade de saber como tudo funciona! <br><br>
 Minhas experiências anteriores como professor de Ed. Física Bilingue, me permite comunicar-se com eficiência e facilidade... além de ser proativo, gerenciar bem o tempo e lidar facilmente com pessoas.
+
 <br><br>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizlimadev&hide_progress=true&theme=tokyonight)
-
-</div>
-
-<br>
+  
 
 🎓 Desenvolvedor de Software (Full Stack)
 
 🎓 Cursando Faculdade de Engenharia de Software
 
-🎮  Gamer e 🏋🏾 esportista nas horas vagas!
+🎮  Gamer e esportista 🏋🏾 nas horas vagas!
 
 🇺🇸 Inglês fluente
 
